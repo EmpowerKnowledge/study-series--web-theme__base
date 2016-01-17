@@ -101,6 +101,6 @@ node_modules
 bower_components/
 
 assets/vendor
-/**.html
-/**.css
-assets/bundle*
+/*.html
+/*.css
+assets/css/bundle*
