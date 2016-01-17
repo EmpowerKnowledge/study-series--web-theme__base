@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300|Oxygen:700');
+
+:root {
+  --dark-primary-color: #303f9f;
+  --default-primary-color: #3f51b5;
+  --light-primary-color: #c5cae9;
+  --text-primary-color: #ffffff;
+  --accent-color: #ff4081;
+  --primary-background-color: #ffffff;
+  --primary-text-color: #212121;
+  --secondary-text-color: #757575;
+  --disabled-text-color: #bdbdbd;
+  --divider-color: #e0e0e0;
+}
+
+iron-pages {
+  border-left: 1px solid #ccc;
+  border-top: none;
+  padding: 8px;
+}
