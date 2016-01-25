@@ -104,3 +104,4 @@ assets/vendor
 /*.html
 /*.css
 assets/css/bundle*
+assets/js/bundle*

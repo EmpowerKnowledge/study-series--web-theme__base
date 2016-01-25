@@ -14,9 +14,11 @@
   },
   "devDependencies": {
     "clean-css": "^3.3.6",
+    "exports-loader": "^0.6.2",
     "modularscale-sass": "^2.1.1",
     "node-bourbon": "^4.2.3",
-    "node-sass": "^3.2.0"
+    "node-sass": "^3.2.0",
+    "webpack": "^1.12.11"
   },
   "scripts": {
     "clean:css": "rm -f assets/css/bundle*",
